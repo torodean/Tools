@@ -3,14 +3,11 @@
 This is a Python project that includes a custom library and scripts to perform various things. The project is organized to support modular development and easy imports.
 
 ## Directory Structure
-Tools/
-│
-├── configurator/         # Custom library for handling configuration files
-│
-├── (other libraries)/    # Placeholder for future libraries or packages
-│
-├── main.py              # Example script or entry point using the libraries
-└── README.md            # This file
+- Tools/
+  - configurator/         # Custom library for handling configuration files
+  - (other libraries)/    # Placeholder for future libraries or packages
+- main.py                 # Example script or entry point using the libraries
+- README.md               # This file
 
 
 ### Key Components
